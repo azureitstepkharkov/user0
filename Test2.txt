@@ -1,6 +1,0 @@
-<<<<<<< HEAD
-Test 2 Line 2
-Test 2 line 2
-=======
-Test 2 Line 2
->>>>>>> e43d272a3241664798f7e140365cdf5914ac1929
